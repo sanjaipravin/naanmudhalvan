@@ -1,0 +1,16 @@
+model,brand,processor,ram,storage,price,category,sales_count,defect_rate
+XPS 13,Dell,Intel i7,16,512,1299,Premium,450,2.1
+MacBook Pro,Apple,M1 Pro,16,1024,1999,Premium,680,1.8
+ThinkPad X1,Lenovo,Intel i7,32,1024,1599,Business,320,1.5
+Inspiron 15,Dell,Intel i5,8,256,699,Budget,890,3.2
+ZenBook 14,Asus,Intel i5,16,512,899,Mid-Range,560,2.4
+Surface Laptop,Microsoft,Intel i7,16,512,1299,Premium,280,2.0
+IdeaPad 3,Lenovo,AMD Ryzen 5,8,256,549,Budget,920,3.5
+ROG Strix,Asus,AMD Ryzen 9,32,1024,1899,Gaming,340,2.8
+Pavilion 15,HP,Intel i5,8,512,749,Mid-Range,670,2.9
+MacBook Air,Apple,M1,8,256,999,Premium,780,1.6
+Nitro 5,Acer,Intel i5,16,512,899,Gaming,430,3.1
+Chromebook,HP,Intel Celeron,4,64,299,Budget,1200,2.2
+Legion 5,Lenovo,AMD Ryzen 7,16,512,1099,Gaming,520,2.6
+Spectre x360,HP,Intel i7,16,1024,1399,Premium,290,1.9
+Swift 3,Acer,AMD Ryzen 5,8,512,699,Mid-Range,480,2.7 
